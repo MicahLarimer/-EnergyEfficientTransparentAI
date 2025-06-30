@@ -1,0 +1,14 @@
+fastai
+timm
+codecarbon
+scikit-learn
+pandas
+shap
+torch
+pandas
+scikit-learn
+scikit-learn
+numpy
+scipy
+joblib
+threadpoolctl
